@@ -1,0 +1,26 @@
+{
+  "name": "chcommit",
+  "version": "0.0.1",
+  "description": "Clubhouse tagging script",
+  "main": "index.js",
+  "scripts": {
+    "test": "lumo test",
+    "build": "lumo --classpath src build.cljs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzawrotny/chcommit.git"
+  },
+  "keywords": [
+    "clubhouse",
+    "git",
+    "commit",
+    "clojurescript"
+  ],
+  "author": "Jay Zawrotny <jay@venuebook.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jayzawrotny/chcommit/issues"
+  },
+  "homepage": "https://github.com/jayzawrotny/chcommit#readme"
+}
