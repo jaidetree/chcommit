@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jayzawrotny/chcommit/issues"
   },
-  "homepage": "https://github.com/jayzawrotny/chcommit#readme"
+  "homepage": "https://github.com/jayzawrotny/chcommit#readme",
+  "dependencies": {
+    "@cljs-oss/module-deps": "^1.1.1",
+    "highland": "^2.11.0",
+    "request": "^2.83.0"
+  }
 }
